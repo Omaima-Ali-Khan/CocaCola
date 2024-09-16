@@ -103,7 +103,7 @@ button:hover {
 .circle:hover {
     transform: scale(0.8);
     border-color: transparent;
-    opacity: 0; /*Hide the circle */
+    opacity: 0; /*Hide the circle*/
 }
 
 .circle:hover .text {
