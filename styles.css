@@ -103,7 +103,7 @@ button:hover {
 .circle:hover {
     transform: scale(0.8);
     border-color: transparent;
-    opacity: 0; /* Hide the circle */
+    opacity: 0; /*Hide the circle */
 }
 
 .circle:hover .text {
@@ -112,5 +112,5 @@ button:hover {
 
 .circle:hover ~ .overlay {
     opacity: 1;
-    transform: translate(-50%, -50%) scale(1); /* Appear from center */
+    transform: translate(-50%, -50%) scale(1); /*Appear from center */
 }
